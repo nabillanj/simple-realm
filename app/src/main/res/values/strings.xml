@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Realm</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="nama_tugas">Nama Tugas</string>
+    <string name="deadline_tugas">Deadline Tugas</string>
+    <string name="simpan_data">Simpan Data</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
